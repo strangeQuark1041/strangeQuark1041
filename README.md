@@ -30,6 +30,8 @@ I'm currently working on [samarium](https://github.com/strangeQuark1041/samarium
 <img align="left" width="36px" alt="stackoverflow" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 
 <br/>
+<br/>
+
 ---
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=strangeQuark1041&hide=contribs,issues&count_private=true&theme=radical&border_radius=10&bg_color=0,120a2b,2F0743)](https://github.com/anuraghazra/github-readme-stats)
