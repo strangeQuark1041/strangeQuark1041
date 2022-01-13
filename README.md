@@ -6,21 +6,13 @@
 - 🥅 2022 Goals: Contribute more to Open Source
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-<br/>
-
  ---
-
-<br/>
 
 ## Current Project
 
 I'm currently working on [samarium](https://github.com/strangeQuark1041/samarium) - a 2d physics simulation engine and game engine written in C++
 
-<br/>
-
  ---
-
-<br/>
 
 ## Languages and Tools
 <img align="left" width="36px" alt="Visual Studio" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
@@ -38,11 +30,7 @@ I'm currently working on [samarium](https://github.com/strangeQuark1041/samarium
 <img align="left" width="36px" alt="stackoverflow" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 
 <br/>
-<br/>
-
 ---
-
-<br/>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=strangeQuark1041&hide=contribs,issues&count_private=true&theme=radical&border_radius=10&bg_color=0,120a2b,2F0743)](https://github.com/anuraghazra/github-readme-stats)
 
