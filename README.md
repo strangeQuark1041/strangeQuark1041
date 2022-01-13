@@ -6,25 +6,44 @@
 - 🥅 2022 Goals: Contribute more to Open Source
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+<br/>
+
+ ---
+
+<br/>
+
 ## Current Project
 
 I'm currently working on [samarium](https://github.com/strangeQuark1041/samarium) - a 2d physics simulation engine and game engine written in C++
 
-<br />
+<br/>
+
+ ---
+
+<br/>
 
 ## Languages and Tools
-<img alt="Visual Studio" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-<img alt="Visual Studio Code" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
-<img alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img alt="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img alt="git" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img alt="java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img alt="shell" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>
-<img alt="html" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img alt="css" src="https://img.icons8.com/color/50/000000/css3.png"/>
-<img alt="javascript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img alt="C#" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img alt="github" src="https://img.icons8.com/material-sharp/48/000000/github.png"/>
-<img alt="stackoverflow" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+<img align="left" width="26px" alt="Visual Studio" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+<img align="left" width="26px" alt="Visual Studio Code" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+<img align="left" width="26px" alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" width="26px" alt="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align="left" width="26px" alt="git" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" width="26px" alt="java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img align="left" width="26px" alt="shell" src="https://img.icons8.com/doodle/48/000000/console--v2.png"/>
+<img align="left" width="26px" alt="html" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left" width="26px" alt="css" src="https://img.icons8.com/color/50/000000/css3.png"/>
+<img align="left" width="26px" alt="javascript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" width="26px" alt="C#" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img align="left" width="26px" alt="github" src="https://img.icons8.com/material-sharp/48/000000/github.png"/>
+<img align="left" width="26px" alt="stackoverflow" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=strangeQuark1041&hide=contribs,issues&count_private=true&theme=radical&border_radius=10&bg_color=0,120a2b,2F0743)](https://github.com/anuraghazra/github-readme-stats)
 
 [github]: https://github.com/strangeQuark1041
