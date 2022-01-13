@@ -12,6 +12,8 @@
 
 I'm currently working on [samarium](https://github.com/strangeQuark1041/samarium) - a 2d physics simulation engine and game engine written in C++
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=strangeQuark1041&repo=samarium&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
  ---
 
 ## Languages and Tools
@@ -28,6 +30,12 @@ I'm currently working on [samarium](https://github.com/strangeQuark1041/samarium
 <img align="left" width="40px" alt="C#" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img align="left" width="40px" alt="github" src="https://img.icons8.com/material-sharp/48/000000/github.png"/>
 <img align="left" width="40px" alt="stackoverflow" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+
+<br/>
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strangeQuark1041&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
