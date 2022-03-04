@@ -2,17 +2,16 @@
 
 ## I'm a student and developer!
 
-- 🌱 I’m currently learning everything C++
-- 🥅 2022 Goals: Contribute more to Open Source
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🎓 I’m currently learning everything C++
+- 🥅 2022 Goals: Finish [samarium](https://github.com/strangeQuark1041/samarium) implementation
 
  ---
 
 ## Current Project
 
-I'm currently working on [samarium](https://github.com/strangeQuark1041/samarium) - a 2d physics simulation engine and game engine written in C++
+I'm currently working on [samarium](https://github.com/strangeQuark1041/samarium) - a 2d physics simulation library written in C++
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=strangeQuark1041&repo=samarium&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=strangeQuark1041&repo=samarium&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  ---
 
@@ -35,13 +34,13 @@ I'm currently working on [samarium](https://github.com/strangeQuark1041/samarium
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strangeQuark1041&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strangeQuark1041&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
 
 ---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=strangeQuark1041&hide=contribs,issues&count_private=true&theme=radical&border_radius=10&bg_color=0,120a2b,2F0743)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=strangeQuark1041&hide=contribs,issues&count_private=true&theme=tokyonight&border_radius=10&bg_color=0,120a2b,2F0743)](https://github.com/anuraghazra/github-readme-stats)
 
 [github]: https://github.com/strangeQuark1041
