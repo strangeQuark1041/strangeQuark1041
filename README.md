@@ -5,15 +5,11 @@
 - 🎓 I’m currently learning everything C++
 - 🥅 2022 Goals: Finish [samarium](https://github.com/strangeQuark1041/samarium) implementation
 
- ---
-
 ## Current Project
 
 I'm currently working on [samarium](https://github.com/strangeQuark1041/samarium) - a 2d physics simulation library written in C++
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=strangeQuark1041&repo=samarium&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
- ---
 
 ## Languages and Tools
 <img align="left" width="40px" alt="Visual Studio" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
@@ -31,15 +27,8 @@ I'm currently working on [samarium](https://github.com/strangeQuark1041/samarium
 <img align="left" width="40px" alt="stackoverflow" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 
 <br/>
-<br/>
-<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strangeQuark1041&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-<br/>
-
----
+## Stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=strangeQuark1041&hide=contribs,issues&count_private=true&theme=tokyonight&border_radius=10&bg_color=0,120a2b,2F0743)](https://github.com/anuraghazra/github-readme-stats)
 
