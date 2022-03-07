@@ -30,6 +30,10 @@ I'm currently working on [samarium](https://github.com/strangeQuark1041/samarium
 
 ## Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=strangeQuark1041&hide=contribs,issues&count_private=true&theme=tokyonight&border_radius=10&bg_color=0,120a2b,2F0743)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=strangeQuark1041&hide=contribs,issues&count_private=true&theme=github_dark&border_radius=10&bg_color=0,120a2b,2F0743)](https://github.com/anuraghazra/github-readme-stats)
+
+## Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strangeQuark1041&theme=github_dark&layout=compact)
 
 [github]: https://github.com/strangeQuark1041
